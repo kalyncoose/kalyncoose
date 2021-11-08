@@ -1,5 +1,5 @@
 ## About Me
-A creative Computer Scientist with experience in DevOps/QAOps, Solutions Architecture, GIS, open source projects, electronics retail, global and manufacturing IT.
+A creative computer scientist with experience in DevOps/QAOps, Solutions Architecture, GIS, open source projects, electronics retail, global and manufacturing IT.
 
 I am currently working at [Compassion, Inc.](https://compassion.com) focusing heavily on test automation. On GitHub, you can find me contributing to [Robot Framework's](https://robotframework.org) [QWeb Library](https://qweblibrary.org). I am also in the design phase for a new open source project [dwemer](https://github.com/kalyncoose/dwemer) which will be Robot Framework's first desktop client.
 
@@ -35,6 +35,9 @@ I am currently working at [Compassion, Inc.](https://compassion.com) focusing he
 ### NoSQL Databases
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Firestore](https://img.shields.io/badge/firestore-%23FF6600.svg?&style=for-the-badge&logo=firebase&logoColor=white)
+
+### Messaging Platforms
+![Pulsar](https://img.shields.io/badge/Apache%20Pulsar-00B4F0?style=for-the-badge&logo=Apache%20Pulsar&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
