@@ -3,6 +3,8 @@ A creative Computer Scientist with experience in DevOps/QAOps, Solutions Archite
 
 I am currently working at [Compassion, Inc.](https://compassion.com) focusing heavily on test automation. On GitHub, you can find me contributing to [Robot Framework's](https://robotframework.org) [QWeb Library](https://qweblibrary.org). I am also in the design phase for a new open source project [dwemer](https://github.com/kalyncoose/dwemer) which will be Robot Framework's first desktop client.
 
+*Trivia: My favorite computer science course was Assembly Language!*
+
 ## Skills
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -46,7 +48,7 @@ I am currently working at [Compassion, Inc.](https://compassion.com) focusing he
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![WebStorm](https://img.shields.io/badge/WebStorm-143?style=for-the-badge&logo=WebStorm&logoColor=black&color=black&labelColor=blue)
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-4EA94B?style=for-the-badge&logo=splunk&logoColor=white)
