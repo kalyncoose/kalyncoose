@@ -65,7 +65,7 @@ I am currently working at [Compassion, Inc.](https://compassion.com) focusing he
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-745626?style=for-the-badge&logo=homebrew&logoColor=white)
-![Chocolatey](https://img.shields.io/badge/Chocolatey-5c9fd8?style=for-the-badge&logo=chocolatey&logoColor=white)
+![Chocolatey](https://img.shields.io/badge/Chocolatey-4a7fad?style=for-the-badge&logo=chocolatey&logoColor=white)
 ![cmdprompt](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![iterm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![ohmyzshell](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
