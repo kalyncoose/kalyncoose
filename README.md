@@ -6,7 +6,7 @@ I am currently working at [Compassion, Inc.](https://compassion.com) focusing he
 *Trivia: My favorite computer science course was Assembly Language!*
 
 ## My Stack
-I have a wide range of experience in many languages, frameworks, clouds and tools.
+I have a wide range of experience in many languages, frameworks, clouds and tools.  This list is not all-inclusive and I am by no means an expert in every item (some more than others).
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
