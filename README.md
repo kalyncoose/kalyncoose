@@ -5,7 +5,21 @@ I am currently working at [Compassion, Inc.](https://compassion.com) focusing he
 
 ## Skills
 ### Languages
+!()[]
+!()[]
+!()[]
+!()[]
+!()[]
+!()[]
+!()[]
 ### Frameworks
+!()[]
+!()[]
+!()[]
+!()[]
+!()[]
+!()[]
+!()[]
 ### Other
 - Geographic Information Systems (ESRI/QGIS)
 - Smart Contracts in Crypto Currency (Solidity/Plutus)
