@@ -41,7 +41,3 @@ I am currently working at [Compassion, Inc.](https://compassion.com) focusing he
 
 ### SaaS
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-
-### Other
-- Geographic Information Systems (ESRI/QGIS)
-- Smart Contracts in Crypto Currency (Solidity/Plutus)
