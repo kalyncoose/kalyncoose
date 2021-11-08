@@ -1,7 +1,7 @@
 ## About Me
 A creative computer scientist with experience in DevOps/QAOps, Solutions Architecture, GIS, open source projects, electronics retail, global and manufacturing IT. I am an [AWS Certified Solutions Architect](https://www.credly.com/badges/a5d652a3-968e-48da-af59-742d59f5f0da).
 
-I am currently working at [Compassion, Inc.](https://compassion.com) focusing heavily on test automation. On GitHub, you can find me contributing to [Robot Framework's](https://robotframework.org) [QWeb Library](https://qweblibrary.org). I am also in the design phase for a new open source project [dwemer](https://github.com/kalyncoose/dwemer) which will be Robot Framework's first desktop client.
+I am currently working at [Compassion, Inc.](https://compassion.com) focusing heavily on test automation. On GitHub, you can find me contributing to [Robot Framework's](https://robotframework.org) [QWeb Library](https://qweblibrary.org). I am also in the design phase for a new open source project, [dwemer](https://github.com/kalyncoose/dwemer), which will be Robot Framework's first desktop client.
 
 *Trivia: My favorite computer science course was Assembly Language!*
 
