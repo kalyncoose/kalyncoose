@@ -1,5 +1,5 @@
 ## About Me
-A creative computer scientist with experience in DevOps/QAOps, Solutions Architecture, GIS, open source projects, electronics retail, global and manufacturing IT. I am an [AWS Certified Solutions Architect](https://www.credly.com/badges/a5d652a3-968e-48da-af59-742d59f5f0da).
+A creative computer scientist with experience in DevOps/QAOps, Solutions Architecture, GIS, open source projects, electronics retail, global and manufacturing IT. I am a [Certified SAFe® 5 DevOps Practitioner](https://www.credly.com/badges/1851f5ac-c7bc-4107-b8e5-80eb3946eeda/public_url) and [AWS Certified Solutions Architect](https://www.credly.com/badges/a5d652a3-968e-48da-af59-742d59f5f0da).
 
 I am currently working at [Compassion, Inc.](https://compassion.com) as a DevOps Specialist focusing heavily on test automation including critical functionality, regression, and end-to-end UI/API testing. On GitHub, you can find me contributing to [Robot Framework's](https://robotframework.org) [QWeb Library](https://qweblibrary.org).
 
