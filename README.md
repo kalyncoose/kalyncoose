@@ -1,11 +1,11 @@
 ## About Me
-- Presently React Native Developer
-- 5 years hobby coding and counting
-- 2 years DevOps Engineer - Automation & QA
-- 3 months Solutions Architect (intern)
-- Major - Comp Sci
-- Minor - GIS
-- Patch - jk...
+- 📱 Presently React Native Developer
+- 👨‍💻 5 years hobby coding and counting
+- 🧰 2 years DevOps Engineer - Automation & QA
+- 🏛 3 months Solutions Architect (intern)
+- 💾 Major - Comp Sci
+- 🗺 Minor - GIS
+- 😉 Patch - jk...
 
 ## Stuff I Do
 I have a wide range of experience in many languages, frameworks, clouds and tools.
