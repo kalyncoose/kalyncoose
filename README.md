@@ -99,6 +99,9 @@ I have a wide range of experience in many languages, frameworks, clouds and tool
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 ![GeoJSON](https://img.shields.io/badge/GeoJSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
+### Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
 ### SaaS
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![NetSuite](https://img.shields.io/badge/Oracle%20NetSuite-C74634?style=for-the-badge&logo=Oracle&logoColor=white)
