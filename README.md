@@ -51,9 +51,9 @@ I have a wide range of experience in many languages, frameworks, clouds and tool
 ### Data
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-4EA94B?style=for-the-badge&logo=splunk&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### Pipelines
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
