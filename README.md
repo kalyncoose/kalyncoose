@@ -9,6 +9,7 @@
 
 ## Stuff I Do
 I have a wide range of experience in many languages, frameworks, clouds and tools.
+> I only list technologies that I can confidently use on my own.
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
