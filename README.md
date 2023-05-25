@@ -1,5 +1,5 @@
 ## About Me
-- 📱 Presently React Native Developer
+- 📱 Currently React Native Developer
   - ❌ Worst tech stack I've ever used
 - 👨‍💻 5 years hobby coding and counting
 - 🧰 2 years DevOps Engineer
