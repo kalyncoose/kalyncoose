@@ -1,11 +1,11 @@
 ## About Me
 - 📱 Presently React Native Developer
+  - ❌ Worst tech stack I've ever used
 - 👨‍💻 5 years hobby coding and counting
 - 🧰 2 years DevOps Engineer - Automation & QA
 - 🏛 3 months Solutions Architect (intern)
-- 💾 Major - Comp Sci
-- 🗺 Minor - GIS
-- 😉 Patch - jk...
+- 💾 Major - Computer Science
+- 🗺 Minor - Geographic Information Systems
 
 ## Stuff I Do
 I have a wide range of experience in many languages, frameworks, clouds and tools.
