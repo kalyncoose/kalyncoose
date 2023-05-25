@@ -2,8 +2,8 @@
 - 📱 Presently React Native Developer
   - ❌ Worst tech stack I've ever used
 - 👨‍💻 5 years hobby coding and counting
-- 🧰 2 years DevOps Engineer - Automation & QA
-- 🏛 3 months Solutions Architect (intern)
+- 🧰 2 years DevOps Engineer
+- 🏛 3 months Solutions Architect Internship
 - 💾 Major - Computer Science
 - 🗺 Minor - Geographic Information Systems
 
