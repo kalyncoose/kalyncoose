@@ -50,6 +50,7 @@ I have a wide range of experience in many languages, frameworks, clouds and tool
 ![Robot](https://img.shields.io/badge/Robot-000000?style=for-the-badge&logo=Robot%20Framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
+![Detox](https://img.shields.io/badge/Detox-170c5b?style=for-the-badge&logo=React&logoColor=white)
 
 ### Data
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
