@@ -19,11 +19,6 @@ I have a wide range of experience in many languages, frameworks, clouds and tool
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Mobile
-![React Native](https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JetPack Compose](https://img.shields.io/badge/JetPack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 ### Web
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -31,6 +26,11 @@ I have a wide range of experience in many languages, frameworks, clouds and tool
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JetPack Compose](https://img.shields.io/badge/JetPack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Desktop
 ![Electron](https://img.shields.io/badge/Electron.js-1b1c26?style=for-the-badge&logo=electron&logoColor=9feaf9)
