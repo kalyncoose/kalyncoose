@@ -32,6 +32,9 @@ I have a wide range of experience in many languages, frameworks, clouds and tool
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Desktop
+![Electron](https://img.shields.io/badge/Electron.js-1b1c26?style=for-the-badge&logo=electron&logoColor=9feaf9)
+
 ### API
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
