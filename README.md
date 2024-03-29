@@ -1,8 +1,8 @@
 ## About Me
-- 📱 Currently React Native Developer
-- 👨‍💻 5 years hobby coding and counting
-- 🧰 2 years DevOps Engineer
-- 🏛 3 months Solutions Architect Internship
+- 📱 1 year - React Native Developer
+- 👨‍💻 6 years - Hobby coding
+- 🧰 2 years - DevOps Engineer
+- 🏛 3 months - Solutions Architect Internship
 - 💾 Major - Computer Science
 - 🗺 Minor - Geographic Information Systems
 
