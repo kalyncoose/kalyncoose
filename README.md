@@ -115,4 +115,4 @@ I have a wide range of experience in many languages, frameworks, clouds and tool
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Google_Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
