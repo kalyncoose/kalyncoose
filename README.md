@@ -1,6 +1,6 @@
 ## About Me
-- 📱 1 year - React Native Developer
-- 👨‍💻 6 years - Hobby coding
+- 👨‍💻 7+ years - Hobby coding
+- 📱 1.5 years - React Native Developer
 - 🧰 2 years - DevOps Engineer
 - 🏛 3 months - Solutions Architect Internship
 - 💾 Major - Computer Science
