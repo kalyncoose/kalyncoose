@@ -15,13 +15,13 @@
   - `</>` Coding
   - 🕹️ Gaming
   - 🎾 Tennis
-  - 🏹 Archery
-  - 🚴 Cycling
   - ⛰️ Hiking
+  - 🚴 Cycling
+  - 🏹 Archery
   - 🛶 Kayaking
   - 🚗 Road Trips
+  - 🔭 Astronomy
   - 🎣 Fly Fishing
-  - 🔭 Amateur Astronomy
 
 ## Stuff I Do
 I have a wide range of experience in many languages, frameworks, clouds and tools.
