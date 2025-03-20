@@ -7,10 +7,10 @@
   - 🏛 Solutions Architecture Internship
 - Education
   - Graduate - Georgia Tech
-    - 🎓 M.S. Computer Science (soon!)
+    - 🎓 M.S. Computer Science (soon! 2025-Present)
   - Undergrad - UW-Parkside
-    - 💾 Major - Computer Science
-    - 🗺 Minor - Geographic Information Systems (GIS)
+    - 💾 B.S. Computer Science (2017-21)
+    - 🗺 Minor in Geographic Information Systems (GIS)
 - Hobbies
   - `</>` Coding
   - 🕹️ Gaming
