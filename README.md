@@ -12,6 +12,8 @@
     - 💾 Major - Computer Science
     - 🗺 Minor - Geographic Information Systems (GIS)
 - Hobbies
+  - </> Coding
+  - 🕹️ Gaming
   - 🎾 Tennis
   - 🏹 Archery
   - 🚴 Cycling
