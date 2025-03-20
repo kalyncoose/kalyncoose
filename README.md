@@ -6,8 +6,11 @@
   - 🧰 2 years - DevOps Specialist, 🐍 Python/AWS
   - 🏛 Solutions Architecture Internship
 - Education
-  - 💾 Major - Computer Science
-  - 🗺 Minor - Geographic Information Systems (GIS)
+  - Graduate - Georgia Tech
+    - 🎓 M.S. Computer Science (soon!)
+  - Undergrad - UW-Parkside
+    - 💾 Major - Computer Science
+    - 🗺 Minor - Geographic Information Systems (GIS)
 - Hobbies
   - 🎾 Tennis
   - 🏹 Archery
