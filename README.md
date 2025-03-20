@@ -65,6 +65,7 @@ I have a wide range of experience in many languages, frameworks, clouds and tool
 ### Components
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![React Native Paper](https://img.shields.io/badge/React%20Native%20Paper-6750a4?style=for-the-badge&logo=react&logoColor=white)
 
 ### Testing
 ![Robot](https://img.shields.io/badge/Robot-000000?style=for-the-badge&logo=Robot%20Framework&logoColor=white)
