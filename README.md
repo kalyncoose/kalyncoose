@@ -19,6 +19,7 @@
   - 🚴 Cycling
   - ⛰️ Hiking
   - 🛶 Kayaking
+  - 🚗 Road Trips
   - 🎣 Fly Fishing
   - 🔭 Amateur Astronomy
 
