@@ -3,7 +3,7 @@
   - 👨‍💻 8+ years - Hobby Coding
   - 🦫 1 year - Go Developer, Backend/AWS
   - 📱 2 years - React Native Developer, JS/TS
-  - 🧰 2 years - DevOps Engineer, 🐍 Python/AWS
+  - 🧰 2 years - DevOps Specialist, 🐍 Python/AWS
   - 🏛 3 months - Solutions Architecture Internship
 - Education
   - 💾 Major - Computer Science
