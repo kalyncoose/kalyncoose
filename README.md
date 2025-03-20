@@ -1,7 +1,8 @@
 ## About Me
-- 👨‍💻 7+ years - Hobby coding
-- 📱 1.5 years - React Native Developer
-- 🧰 2 years - DevOps Engineer
+- 👨‍💻 8+ years - Hobby coding
+- 🦫 1 year - Go Developer, Backend
+- 📱 2 years - React Native Developer, JS/TS
+- 🧰 2 years - DevOps Engineer, 🐍 Python
 - 🏛 3 months - Solutions Architect Internship
 - 💾 Major - Computer Science
 - 🗺 Minor - Geographic Information Systems
