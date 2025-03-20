@@ -1,11 +1,21 @@
 ## About Me
-- 👨‍💻 8+ years - Hobby coding
-- 🦫 1 year - Go Developer, Backend/AWS
-- 📱 2 years - React Native Developer, JS/TS
-- 🧰 2 years - DevOps Engineer, 🐍 Python/AWS
-- 🏛 3 months - Solutions Architecture Internship
-- 💾 Major - Computer Science
-- 🗺 Minor - Geographic Information Systems
+- Experience
+  - 👨‍💻 8+ years - Hobby Coding
+  - 🦫 1 year - Go Developer, Backend/AWS
+  - 📱 2 years - React Native Developer, JS/TS
+  - 🧰 2 years - DevOps Engineer, 🐍 Python/AWS
+  - 🏛 3 months - Solutions Architecture Internship
+- Education
+  - 💾 Major - Computer Science
+  - 🗺 Minor - Geographic Information Systems (GIS)
+- Hobbies
+  - 🎾 Tennis
+  - 🏹 Archery
+  - 🚴 Cycling
+  - ⛰️ Hiking
+  - 🛶 Kayaking
+  - 🎣 Fly Fishing
+  - 🔭 Amateur Astronomy
 
 ## Stuff I Do
 I have a wide range of experience in many languages, frameworks, clouds and tools.
