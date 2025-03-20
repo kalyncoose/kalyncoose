@@ -4,7 +4,7 @@
   - 🦫 1 year - Go Developer, Backend/AWS
   - 📱 2 years - React Native Developer, JS/TS
   - 🧰 2 years - DevOps Specialist, 🐍 Python/AWS
-  - 🏛 3 months - Solutions Architecture Internship
+  - 🏛 Solutions Architecture Internship
 - Education
   - 💾 Major - Computer Science
   - 🗺 Minor - Geographic Information Systems (GIS)
