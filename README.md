@@ -12,16 +12,9 @@
     - 💾 B.S. Computer Science (2017-21)
     - 🗺 Minor in Geographic Information Systems (GIS)
 - Hobbies
-  - `</>` Coding
-  - 🕹️ Gaming
   - 🎾 Tennis
   - ⛰️ Hiking
-  - 🚴 Cycling
-  - 🏹 Archery
-  - 🛶 Kayaking
-  - 🚗 Road Trips
-  - 🔭 Astronomy
-  - 🎣 Fly Fishing
+  - 🚴 Biking
 
 ## Stuff I Do
 I have a wide range of experience in many languages, frameworks, clouds and tools.
