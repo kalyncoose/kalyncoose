@@ -6,9 +6,9 @@
   - 🧰 2 years - DevOps Specialist, 🐍 Python/AWS
   - 🏛 Solutions Architecture Internship
 - Education
-  - Graduate - Georgia Tech
-    - 🎓 M.S. Computer Science (soon! 2025-Present)
-  - Undergrad - UW-Parkside
+  - Georgia Institute of Technology
+    - 🎓 M.S. Computer Science (soon! 2025)
+  - University of Wisconsin, Parkside
     - 💾 B.S. Computer Science (2017-21)
     - 🗺 Minor in Geographic Information Systems (GIS)
 - Hobbies
