@@ -7,7 +7,7 @@
   - 👨‍💻 8+ years - Hobby Coding
 - Education
   - Georgia Institute of Technology
-    - 🎓 M.S. Computer Science (soon! 2025)
+    - 🎓 M.S. Computer Science (soon! 2025-)
   - University of Wisconsin, Parkside
     - 💾 B.S. Computer Science (2017-21)
     - 🗺 Minor in Geographic Information Systems (GIS)
