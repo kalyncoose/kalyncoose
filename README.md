@@ -1,10 +1,10 @@
 ## About Me
 - Experience
-  - 👨‍💻 8+ years - Hobby Coding
   - 🦫 1 year - Go Developer, Backend/AWS
   - 📱 2 years - React Native Developer, JS/TS
   - 🧰 2 years - DevOps Specialist, 🐍 Python/AWS
   - 🏛 Solutions Architecture Internship
+  - 👨‍💻 8+ years - Hobby Coding
 - Education
   - Georgia Institute of Technology
     - 🎓 M.S. Computer Science (soon! 2025)
